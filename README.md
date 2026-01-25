@@ -50,7 +50,7 @@ I enjoy learning by doing projects and collaborating with teams.
   Sensor-based lung parameter monitoring system using ESP32  
 
 - **Warranty Management System**  
-  Software-based system to manage product warranty records  
+  Software-based system to manage product warranty records (Personal Software Project - still in development)
 
 (Some projects are private. Public overview repositories are available.)
 
