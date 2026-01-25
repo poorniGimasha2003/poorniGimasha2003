@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=poorniGimasha2003&color=blue" />
+</p>
+
 # Hi, I'm Poorni 👋  
 
 🎓 Computer Engineering Undergraduate  
@@ -50,10 +54,12 @@ I enjoy learning by doing projects and collaborating with teams.
   Sensor-based lung parameter monitoring system using ESP32  
 
 - **Warranty Management System**  
-  Software-based system to manage product warranty records (Personal Software Project - still in development)
+  Software-based system to manage product warranty records  
+  *(Personal software project – still in development)*  
 
-(Some projects are private. Public overview repositories are available.)
+> Some projects are private. Public overview repositories are available.
 
+---
 
 ## 📊 GitHub Activity  
 
@@ -64,7 +70,7 @@ and collaborative development.
 
 ## 📫 Contact  
 
-- GitHub: **@poorniGimasha2003**  
+- GitHub: **@poorniGimasha2003**
 
 ---
 
