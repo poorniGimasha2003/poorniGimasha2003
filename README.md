@@ -65,9 +65,6 @@ I enjoy learning by doing projects and collaborating with teams.
   A women-focused digital platform aimed at safety, wellbeing,  
   and support through technology-driven solutions  
 
-- **Spirometer App** 🫁  
-  Sensor-based lung parameter monitoring system using ESP32  
-
 - **Warranty Management System**  
   Software-based system to manage product warranty records  
   *(Personal software project – still in development)*  
