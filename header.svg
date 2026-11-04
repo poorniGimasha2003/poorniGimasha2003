@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b33"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#7ee7ff" stop-opacity=".9"/><stop offset="1" stop-color="#7ee7ff" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+.edge{stroke:#2a3a5c;stroke-width:1.2}
+.pruned{stroke:#3a2a3a;stroke-width:1;stroke-dasharray:3 4}
+.pulse{stroke:#7ee7ff;stroke-width:2;stroke-linecap:round;fill:none;stroke-dasharray:8 400;animation:fire 2.6s linear infinite}
+@keyframes fire{from{stroke-dashoffset:8}to{stroke-dashoffset:-400}}
+.node{fill:#0d1117;stroke:#7ee7ff;stroke-width:2}
+.core{fill:#7ee7ff;animation:beat 2.6s ease-in-out infinite}
+@keyframes beat{0%,100%{opacity:.35}50%{opacity:1}}
+.dead{fill:none;stroke:#6e4a6e;stroke-width:1.5;stroke-dasharray:3 3}
+.t1{font:700 40px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.t2{font:400 17px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#7ee7ff}
+.t3{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b949e}
+.lab{font:400 11px 'Consolas',monospace;fill:#6e7a96}
+</style>
+<rect width="900" height="280" rx="16" fill="url(#bg)"/>
+
+<line class="edge" x1="560" y1="90" x2="660" y2="65"/>
+<line class="edge" x1="560" y1="90" x2="660" y2="115"/>
+<line class="edge" x1="560" y1="90" x2="660" y2="165"/>
+<line class="pruned" x1="560" y1="90" x2="660" y2="215"/>
+<line class="edge" x1="560" y1="140" x2="660" y2="65"/>
+<line class="edge" x1="560" y1="140" x2="660" y2="115"/>
+<line class="edge" x1="560" y1="140" x2="660" y2="165"/>
+<line class="pruned" x1="560" y1="140" x2="660" y2="215"/>
+<line class="edge" x1="560" y1="190" x2="660" y2="65"/>
+<line class="edge" x1="560" y1="190" x2="660" y2="115"/>
+<line class="edge" x1="560" y1="190" x2="660" y2="165"/>
+<line class="pruned" x1="560" y1="190" x2="660" y2="215"/>
+<line class="pruned" x1="660" y1="65" x2="760" y2="65"/>
+<line class="edge" x1="660" y1="65" x2="760" y2="115"/>
+<line class="edge" x1="660" y1="65" x2="760" y2="165"/>
+<line class="edge" x1="660" y1="65" x2="760" y2="215"/>
+<line class="pruned" x1="660" y1="115" x2="760" y2="65"/>
+<line class="edge" x1="660" y1="115" x2="760" y2="115"/>
+<line class="edge" x1="660" y1="115" x2="760" y2="165"/>
+<line class="edge" x1="660" y1="115" x2="760" y2="215"/>
+<line class="pruned" x1="660" y1="165" x2="760" y2="65"/>
+<line class="edge" x1="660" y1="165" x2="760" y2="115"/>
+<line class="edge" x1="660" y1="165" x2="760" y2="165"/>
+<line class="edge" x1="660" y1="165" x2="760" y2="215"/>
+<line class="pruned" x1="660" y1="215" x2="760" y2="65"/>
+<line class="pruned" x1="660" y1="215" x2="760" y2="115"/>
+<line class="pruned" x1="660" y1="215" x2="760" y2="165"/>
+<line class="pruned" x1="660" y1="215" x2="760" y2="215"/>
+<line class="pruned" x1="760" y1="65" x2="850" y2="115"/>
+<line class="pruned" x1="760" y1="65" x2="850" y2="165"/>
+<line class="edge" x1="760" y1="115" x2="850" y2="115"/>
+<line class="edge" x1="760" y1="115" x2="850" y2="165"/>
+<line class="edge" x1="760" y1="165" x2="850" y2="115"/>
+<line class="edge" x1="760" y1="165" x2="850" y2="165"/>
+<line class="edge" x1="760" y1="215" x2="850" y2="115"/>
+<line class="edge" x1="760" y1="215" x2="850" y2="165"/>
+<line class="pulse" style="animation-delay:-0.39s" x1="560" y1="90" x2="660" y2="65"/>
+<line class="pulse" style="animation-delay:-1.39s" x1="560" y1="90" x2="660" y2="165"/>
+<line class="pulse" style="animation-delay:-0.15s" x1="560" y1="140" x2="660" y2="65"/>
+<line class="pulse" style="animation-delay:-0.10s" x1="560" y1="140" x2="660" y2="115"/>
+<line class="pulse" style="animation-delay:-0.18s" x1="560" y1="140" x2="660" y2="165"/>
+<line class="pulse" style="animation-delay:-1.10s" x1="560" y1="190" x2="660" y2="65"/>
+<line class="pulse" style="animation-delay:-0.58s" x1="560" y1="190" x2="660" y2="165"/>
+<line class="pulse" style="animation-delay:-2.94s" x1="660" y1="115" x2="760" y2="115"/>
+<line class="pulse" style="animation-delay:-2.63s" x1="660" y1="115" x2="760" y2="165"/>
+<line class="pulse" style="animation-delay:-0.78s" x1="660" y1="115" x2="760" y2="215"/>
+<line class="pulse" style="animation-delay:-1.20s" x1="660" y1="165" x2="760" y2="115"/>
+<line class="pulse" style="animation-delay:-1.91s" x1="660" y1="165" x2="760" y2="215"/>
+<line class="pulse" style="animation-delay:-2.22s" x1="760" y1="115" x2="850" y2="165"/>
+<line class="pulse" style="animation-delay:-0.95s" x1="760" y1="165" x2="850" y2="115"/>
+<line class="pulse" style="animation-delay:-2.57s" x1="760" y1="165" x2="850" y2="165"/>
+<line class="pulse" style="animation-delay:-1.62s" x1="760" y1="215" x2="850" y2="115"/>
+<circle cx="560" cy="90" r="20" fill="url(#glow)" class="core" style="animation-delay:-1.18s;opacity:.4"/>
+<circle class="node" cx="560" cy="90" r="11"/>
+<circle class="core" cx="560" cy="90" r="4.5" style="animation-delay:-1.18s"/>
+<circle cx="560" cy="140" r="20" fill="url(#glow)" class="core" style="animation-delay:-0.78s;opacity:.4"/>
+<circle class="node" cx="560" cy="140" r="11"/>
+<circle class="core" cx="560" cy="140" r="4.5" style="animation-delay:-0.78s"/>
+<circle cx="560" cy="190" r="20" fill="url(#glow)" class="core" style="animation-delay:-2.07s;opacity:.4"/>
+<circle class="node" cx="560" cy="190" r="11"/>
+<circle class="core" cx="560" cy="190" r="4.5" style="animation-delay:-2.07s"/>
+<circle cx="660" cy="65" r="20" fill="url(#glow)" class="core" style="animation-delay:-1.82s;opacity:.4"/>
+<circle class="node" cx="660" cy="65" r="11"/>
+<circle class="core" cx="660" cy="65" r="4.5" style="animation-delay:-1.82s"/>
+<circle cx="660" cy="115" r="20" fill="url(#glow)" class="core" style="animation-delay:-0.63s;opacity:.4"/>
+<circle class="node" cx="660" cy="115" r="11"/>
+<circle class="core" cx="660" cy="115" r="4.5" style="animation-delay:-0.63s"/>
+<circle cx="660" cy="165" r="20" fill="url(#glow)" class="core" style="animation-delay:-1.49s;opacity:.4"/>
+<circle class="node" cx="660" cy="165" r="11"/>
+<circle class="core" cx="660" cy="165" r="4.5" style="animation-delay:-1.49s"/>
+<circle class="dead" cx="660" cy="215" r="11"/>
+<circle class="dead" cx="760" cy="65" r="11"/>
+<circle cx="760" cy="115" r="20" fill="url(#glow)" class="core" style="animation-delay:-1.37s;opacity:.4"/>
+<circle class="node" cx="760" cy="115" r="11"/>
+<circle class="core" cx="760" cy="115" r="4.5" style="animation-delay:-1.37s"/>
+<circle cx="760" cy="165" r="20" fill="url(#glow)" class="core" style="animation-delay:-2.28s;opacity:.4"/>
+<circle class="node" cx="760" cy="165" r="11"/>
+<circle class="core" cx="760" cy="165" r="4.5" style="animation-delay:-2.28s"/>
+<circle cx="760" cy="215" r="20" fill="url(#glow)" class="core" style="animation-delay:-1.90s;opacity:.4"/>
+<circle class="node" cx="760" cy="215" r="11"/>
+<circle class="core" cx="760" cy="215" r="4.5" style="animation-delay:-1.90s"/>
+<circle cx="850" cy="115" r="20" fill="url(#glow)" class="core" style="animation-delay:-0.75s;opacity:.4"/>
+<circle class="node" cx="850" cy="115" r="11"/>
+<circle class="core" cx="850" cy="115" r="4.5" style="animation-delay:-0.75s"/>
+<circle cx="850" cy="165" r="20" fill="url(#glow)" class="core" style="animation-delay:-2.55s;opacity:.4"/>
+<circle class="node" cx="850" cy="165" r="11"/>
+<circle class="core" cx="850" cy="165" r="4.5" style="animation-delay:-2.55s"/>
+<text class="lab" x="535" y="255">input</text><text class="lab" x="630" y="255">hidden</text><text class="lab" x="730" y="255">hidden</text><text class="lab" x="825" y="255">output</text>
+<text class="lab" x="610" y="35" fill="#a07aa0" style="fill:#a07aa0">- - - pruned neurons</text>
+<text class="t1" x="44" y="110">Poorni Pathirage</text>
+<text class="t2" x="46" y="145">Computer Engineering @ University of Sri Jayewardenepura</text>
+<text class="t3" x="46" y="180">Making neural networks smaller, faster and ready for the edge.</text>
+<text class="t3" x="46" y="205">Structural pruning · Deep learning · IoT for healthcare</text>
+</svg>
