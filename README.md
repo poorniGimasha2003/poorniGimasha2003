@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Poorni Pathirage – animated neural network banner" width="100%"/>
+<img src="header.svg" alt="Poorni Pathirage – animated neural network banner" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7EE7FF&center=true&vCenter=true&width=620&lines=Fewer+neurons%2C+same+intelligence.;Pruning+deep+networks+for+edge+devices+%E2%9A%A1;From+research+ideas+to+working+systems.;Building+BedSense+%E2%80%94+IoT+for+patient+care." alt="Typing animation" /></a>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## 🧠 Input Layer: About Me
 
@@ -32,7 +32,7 @@ class Neuron:
 
 I'm fascinated by how networks of simple units can learn complex behaviour, and by how many of those units we can **remove** without losing what they learned. My current work focuses on making deep neural networks **smaller and faster** so they can run on real edge hardware.
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## ⚡ Hidden Layers: What I'm Working On
 
@@ -47,7 +47,7 @@ flowchart LR
 
 > **Research question:** *Which architectures can DepGraph prune safely, where does it break, and how can we extend it to layers it doesn't support yet (like LSTM/GRU)?*
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## 🎯 Output Layer: Projects
 
@@ -85,7 +85,7 @@ flowchart LR
 `ESP32` `MQTT` `Node.js` `React` `SQLite` `IoT`
 </details>
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## 🏆 Activations: Awards & Recognition
 
@@ -98,7 +98,7 @@ flowchart LR
 | 💡 | **Winner**, IdeaPulse 2.0 Inter-Faculty Idea Pitching 2026 | — |
 | 💻 | **Finalist**, Mobitel CodeBlast Hackathon 2025 | — |
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## 🔬 Weights & Biases: My Toolkit
 
@@ -140,7 +140,7 @@ flowchart LR
 - Java Intermediate · Intro to Java, Python & C++, Sololearn
 </details>
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 ## 📊 Forward Pass: GitHub Activity
 
@@ -149,7 +149,7 @@ flowchart LR
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorniGimasha2003&layout=compact&hide_border=true&bg_color=0d1117&title_color=7EE7FF&text_color=c9d1d9" height="165" alt="Top languages"/>
 </div>
 
-<img src="assets/spike-divider.svg" width="100%" alt="action potential divider"/>
+<img src="spike-divider.svg" width="100%" alt="action potential divider"/>
 
 <div align="center">
 
