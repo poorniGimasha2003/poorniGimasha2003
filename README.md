@@ -21,7 +21,7 @@ I'm a Computer Engineering student who enjoys turning ideas into **working, real
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-dnn-compression.svg" width="32%" alt="DNN Compression – deep learning research"/></a>
+  <a href="https://github.com/poorniGimasha2003/poorniGimasha2003/blob/main/dnn-compression.md"><img src="project-dnn-compression.svg" width="32%" alt="DNN Compression – deep learning research"/></a>
   <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-grc-copilot.svg" width="32%" alt="GRC Copilot – AI audit assistant"/></a>
   <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-ecommerce.svg" width="32%" alt="E-Commerce ML Pipeline"/></a>
 </p>
