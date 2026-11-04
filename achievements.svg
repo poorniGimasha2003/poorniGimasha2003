@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="130" viewBox="0 0 900 130"><style>
+.h{font:700 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.p{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#9aa7b8}
+.s{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#7ee7ff;letter-spacing:.5px}
+.chip{font:500 11px Consolas,'Courier New',monospace;fill:#c9d1d9}
+.e{font:28px 'Segoe UI',Helvetica,Arial,sans-serif}.big{font:700 17px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}.shine{animation:sh 3s ease-in-out infinite}@keyframes sh{0%,100%{opacity:.5}50%{opacity:1}}</style>
+<rect x="1" y="1" width="213" height="128" rx="14" fill="#0f1524" stroke="#f6c177" stroke-opacity=".45"/>
+<circle cx="44" cy="65.0" r="24" fill="#f6c177" fill-opacity=".12" class="shine" style="animation-delay:0.0s"/>
+<text class="e" x="44" y="75.0" text-anchor="middle">🥇</text>
+<text class="big" x="80" y="52" style="fill:#f6c177">Champions</text>
+<text class="p" x="80" y="75" style="fill:#e6edf3">VERTEX 2025</text>
+<text class="p" x="80" y="95" style="font-size:12px">IEEE RAS</text>
+<rect x="230" y="1" width="213" height="128" rx="14" fill="#0f1524" stroke="#c9d1d9" stroke-opacity=".45"/>
+<circle cx="273" cy="65.0" r="24" fill="#c9d1d9" fill-opacity=".12" class="shine" style="animation-delay:0.4s"/>
+<text class="e" x="273" y="75.0" text-anchor="middle">🥈</text>
+<text class="big" x="309" y="52" style="fill:#c9d1d9">1st Runner-Up</text>
+<text class="p" x="309" y="75" style="fill:#e6edf3">Brainstorm 2026</text>
+<text class="p" x="309" y="95" style="font-size:12px">IEEE EMBS</text>
+<rect x="459" y="1" width="213" height="128" rx="14" fill="#0f1524" stroke="#7ee7ff" stroke-opacity=".45"/>
+<circle cx="502" cy="65.0" r="24" fill="#7ee7ff" fill-opacity=".12" class="shine" style="animation-delay:0.8s"/>
+<text class="e" x="502" y="75.0" text-anchor="middle">🌍</text>
+<text class="big" x="538" y="52" style="fill:#7ee7ff">Top 6 Finalist</text>
+<text class="p" x="538" y="75" style="fill:#e6edf3">Hult Prize SL 2026</text>
+<text class="p" x="538" y="95" style="font-size:12px">National</text>
+<rect x="688" y="1" width="213" height="128" rx="14" fill="#0f1524" stroke="#7ee787" stroke-opacity=".45"/>
+<circle cx="731" cy="65.0" r="24" fill="#7ee787" fill-opacity=".12" class="shine" style="animation-delay:1.2000000000000002s"/>
+<text class="e" x="731" y="75.0" text-anchor="middle">📡</text>
+<text class="big" x="767" y="52" style="fill:#7ee787">Finalist</text>
+<text class="p" x="767" y="75" style="fill:#e6edf3">SLIoT 2026</text>
+<text class="p" x="767" y="95" style="font-size:12px">National IoT Challenge</text>
+</svg>

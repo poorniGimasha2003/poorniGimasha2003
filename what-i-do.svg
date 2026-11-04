@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170"><style>
+.h{font:700 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.p{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#9aa7b8}
+.s{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#7ee7ff;letter-spacing:.5px}
+.chip{font:500 11px Consolas,'Courier New',monospace;fill:#c9d1d9}
+.tt{font:700 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}.e{font:30px 'Segoe UI',Helvetica,Arial,sans-serif}.tile{animation:in .8s ease-out both}@keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}</style>
+<g class="tile" style="animation-delay:0.00s">
+<rect x="1" y="1" width="168" height="168" rx="14" fill="#0f1524" stroke="#7ee7ff" stroke-opacity=".45"/>
+<rect x="1" y="1" width="168" height="5" rx="2" fill="#7ee7ff"/>
+<text class="e" x="85.0" y="62" text-anchor="middle">🧠</text>
+<text class="tt" x="85.0" y="100" text-anchor="middle">AI &amp; ML</text>
+<text class="p" x="85.0" y="126" text-anchor="middle" style="font-size:13px">Deep learning,</text>
+<text class="p" x="85.0" y="145" text-anchor="middle" style="font-size:13px">efficient models</text>
+</g>
+<g class="tile" style="animation-delay:0.12s">
+<rect x="184" y="1" width="168" height="168" rx="14" fill="#0f1524" stroke="#a78bfa" stroke-opacity=".45"/>
+<rect x="184" y="1" width="168" height="5" rx="2" fill="#a78bfa"/>
+<text class="e" x="268.0" y="62" text-anchor="middle">📊</text>
+<text class="tt" x="268.0" y="100" text-anchor="middle">Data Science</text>
+<text class="p" x="268.0" y="126" text-anchor="middle" style="font-size:13px">Pipelines, analytics,</text>
+<text class="p" x="268.0" y="145" text-anchor="middle" style="font-size:13px">dashboards</text>
+</g>
+<g class="tile" style="animation-delay:0.24s">
+<rect x="367" y="1" width="168" height="168" rx="14" fill="#0f1524" stroke="#f6c177" stroke-opacity=".45"/>
+<rect x="367" y="1" width="168" height="5" rx="2" fill="#f6c177"/>
+<text class="e" x="451.0" y="62" text-anchor="middle">☁️</text>
+<text class="tt" x="451.0" y="100" text-anchor="middle">Cloud</text>
+<text class="p" x="451.0" y="126" text-anchor="middle" style="font-size:13px">AWS deployment</text>
+<text class="p" x="451.0" y="145" text-anchor="middle" style="font-size:13px">&amp; architecture</text>
+</g>
+<g class="tile" style="animation-delay:0.36s">
+<rect x="550" y="1" width="168" height="168" rx="14" fill="#0f1524" stroke="#7ee787" stroke-opacity=".45"/>
+<rect x="550" y="1" width="168" height="5" rx="2" fill="#7ee787"/>
+<text class="e" x="634.0" y="62" text-anchor="middle">📡</text>
+<text class="tt" x="634.0" y="100" text-anchor="middle">IoT &amp; Embedded</text>
+<text class="p" x="634.0" y="126" text-anchor="middle" style="font-size:13px">ESP32, sensors,</text>
+<text class="p" x="634.0" y="145" text-anchor="middle" style="font-size:13px">real-time systems</text>
+</g>
+<g class="tile" style="animation-delay:0.48s">
+<rect x="733" y="1" width="168" height="168" rx="14" fill="#0f1524" stroke="#ff7eb6" stroke-opacity=".45"/>
+<rect x="733" y="1" width="168" height="5" rx="2" fill="#ff7eb6"/>
+<text class="e" x="817.0" y="62" text-anchor="middle">💻</text>
+<text class="tt" x="817.0" y="100" text-anchor="middle">Full-Stack</text>
+<text class="p" x="817.0" y="126" text-anchor="middle" style="font-size:13px">React, Node.js,</text>
+<text class="p" x="817.0" y="145" text-anchor="middle" style="font-size:13px">Flask apps</text>
+</g>
+</svg>

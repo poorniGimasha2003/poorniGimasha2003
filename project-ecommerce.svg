@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="262" viewBox="0 0 290 262"><style>
+.h{font:700 22px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.p{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#9aa7b8}
+.s{font:600 12px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#7ee7ff;letter-spacing:.5px}
+.chip{font:500 11px Consolas,'Courier New',monospace;fill:#c9d1d9}
+.e{font:26px 'Segoe UI',Helvetica,Arial,sans-serif}.go{font:600 13px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#a78bfa}.ar{animation:nudge 1.6s ease-in-out infinite}@keyframes nudge{0%,100%{transform:translateX(0)}50%{transform:translateX(4px)}}</style>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b33"/></linearGradient></defs>
+<rect width="290" height="262" rx="14" fill="url(#bg)" stroke="#263046"/>
+<rect x="0" y="0" width="6" height="262" rx="3" fill="#a78bfa"/>
+<text class="e" x="26" y="50">🛒</text><text class="h" x="64" y="47" style="font-size:19px">E-Commerce ML</text>
+<text class="s" x="26" y="78" style="fill:#a78bfa;font-size:11px">DATA SCIENCE · ML</text>
+<text class="p" x="26" y="106" style="font-size:13px">780K real transactions turned</text>
+<text class="p" x="26" y="126" style="font-size:13px">into customer segments, churn</text>
+<text class="p" x="26" y="146" style="font-size:13px">predictions and product insights</text>
+<text class="p" x="26" y="166" style="font-size:13px">on an interactive dashboard.</text>
+<rect x="26" y="190" width="60" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".4"/><text class="chip" x="35" y="206">Python</text>
+<rect x="94" y="190" width="67" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".4"/><text class="chip" x="103" y="206">sklearn</text>
+<rect x="169" y="190" width="81" height="24" rx="12" fill="#a78bfa" fill-opacity=".12" stroke="#a78bfa" stroke-opacity=".4"/><text class="chip" x="178" y="206">Streamlit</text>
+<g class="ar"><text class="go" x="264" y="245" text-anchor="end">View →</text></g>
+</svg>
