@@ -21,9 +21,9 @@ I'm a Computer Engineering student who enjoys turning ideas into **working, real
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-bedsense.svg" width="32%" alt="BedSense"/></a>
+  <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-dnn-compression.svg" width="32%" alt="DNN Compression – deep learning research"/></a>
+  <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-grc-copilot.svg" width="32%" alt="GRC Copilot – AI audit assistant"/></a>
   <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-ecommerce.svg" width="32%" alt="E-Commerce ML Pipeline"/></a>
-  <a href="https://github.com/poorniGimasha2003?tab=repositories"><img src="project-efficient-ai.svg" width="32%" alt="Efficient AI Models"/></a>
 </p>
 
 ### 🏆 Achievements
@@ -36,11 +36,10 @@ I'm a Computer Engineering student who enjoys turning ideas into **working, real
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,cpp,java,aws,react,nodejs,flask,sqlite,arduino,git,github,vscode,figma&perline=8&theme=dark"/>
 </p>
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poorniGimasha2003&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7EE7FF&icon_color=7EE7FF&text_color=c9d1d9" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorniGimasha2003&layout=compact&hide_border=true&bg_color=0d1117&title_color=7EE7FF&text_color=c9d1d9" height="160" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=poorniGimasha2003&theme=tokyonight&hide_border=true&background=0D1117&ring=7EE7FF&fire=7EE7FF&currStreakLabel=7EE7FF" alt="GitHub streak"/>
 </p>
 
 <div align="center">
