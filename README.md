@@ -36,6 +36,13 @@ I'm a Computer Engineering student who enjoys turning ideas into **working, real
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,cpp,java,aws,react,nodejs,flask,sqlite,arduino,git,github,vscode,figma&perline=8&theme=dark"/>
 </p>
 
+### 🌳 Commit Garden
+
+<p align="center">
+  <img src="commit-garden.svg" width="100%" alt="Commit Garden – every repo is a branch, every commit is a leaf"/>
+</p>
+<p align="center"><sub>Every repo grows a branch, every commit grows a leaf 🌸 features bloom · 🍊 fixes glow · refreshed every 6 hours</sub></p>
+
 ### 📊 GitHub Activity
 
 <p align="center">
